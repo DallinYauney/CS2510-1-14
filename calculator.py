@@ -8,6 +8,6 @@ addition = num1 + num2
 
 division = num1 / num2
 
-print("Your numbers added together = ", addition)
+print(f"{num1} + {num2} = {addition}")
 
-print("Your numbers divided = ", division)
+print(f"{num1} / {num2} = {division}")
