@@ -1,8 +1,8 @@
 print("Enter 2 numbers that you want to add and subtract")
 
-num1 = int(input())
+num1 = int(input(": "))
 
-num2 = int(input())
+num2 = int(input(": "))
 
 addition = num1 + num2
 
